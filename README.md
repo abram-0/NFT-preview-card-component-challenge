@@ -23,4 +23,4 @@ Users should be able to:
 
 ### Author
 
-- Frontend Mentor - [@abram-0](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@abram-0](https://www.frontendmentor.io/profile/abram-0)
